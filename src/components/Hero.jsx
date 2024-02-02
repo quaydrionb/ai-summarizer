@@ -17,12 +17,13 @@ const Hero = () => {
       </nav>
 
       <h1 className="head_text">
-        Summarize Articles with <br className="max-md:hidden" />
-        <span className="orange_gradient">OpenAI GPT-4</span>
+        Summarize articles with
+        <br className="max-md:hidden" />
+        <span className="blue_gradient">OpenAI GPT-4</span>
       </h1>
 
       <h2 className="desc">
-        Make your reading easier with Summarize, an open-source tool that
+        Make your reading easier with Article Digest, an open-source tool that
         condenses lengthy articles into clear and concise summaries.
       </h2>
     </header>
