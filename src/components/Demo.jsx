@@ -86,7 +86,7 @@ const Demo = () => {
             type="submit"
             className="submit_btn peer-focus:border-gray-700 peer-focus:text-gray-700 "
           >
-            <p>↵</p>
+            <p>▶</p>
           </button>
         </form>
 
@@ -105,7 +105,7 @@ const Demo = () => {
                   className="w-[40%] h-[40%] object-contain"
                 />
               </div>
-              <p className="flex-1 font-satoshi text-blue-700 font-medium text-sm truncate">
+              <p className="flex-1 font-satoshi text-orange-700 font-medium text-sm truncate">
                 {item.url}
               </p>
             </div>
