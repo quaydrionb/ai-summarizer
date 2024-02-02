@@ -1,6 +1,5 @@
 # Summarize Articles with OpenAI GPT-4
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5f7a37ff-52c9-4c4d-a620-3b61fcbbff49/deploy-status)](https://app.netlify.com/sites/quad-ai-summarizer/deploys)
 
 ## Purpose
 
