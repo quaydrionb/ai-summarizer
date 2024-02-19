@@ -1,5 +1,7 @@
 # Summarize Articles with OpenAI GPT-4
 
+![image](https://github.com/quaydrionb/ai-summarizer/assets/99278263/b3c8b9dc-ffec-40b5-bf61-976ace414b38)
+
 
 ## Purpose
 
